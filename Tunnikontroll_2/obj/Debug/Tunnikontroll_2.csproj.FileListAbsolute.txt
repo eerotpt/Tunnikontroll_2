@@ -1,0 +1,7 @@
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\bin\Debug\Tunnikontroll_2.exe.config
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\bin\Debug\Tunnikontroll_2.exe
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\bin\Debug\Tunnikontroll_2.pdb
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.csprojResolveAssemblyReference.cache
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.csproj.CoreCompileInputs.cache
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.exe
+c:\users\eero\source\repos\Tunnikontroll_2\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.pdb
